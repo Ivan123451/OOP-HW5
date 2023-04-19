@@ -1,6 +1,6 @@
 package org.example;
 
-public class Money <T> {
-    T amount;
+public class Money {
+    int amount = 100000;
 
 }
